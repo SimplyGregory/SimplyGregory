@@ -40,12 +40,6 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 	<img src="https://img.shields.io/badge/Il2CPPDumper-6C5CE7?style=for-the-badge" alt="Il2CPPDumper" />
 </p>
 
-## Project Highlights
-- **Modding Toolkit** — reverse-engineering helpers for faster analysis, patching, and iteration.
-- **Gameplay Prototype** — reusable movement/combat framework for fast idea testing.
-- **Creator Utility Site** — lightweight web tools for release notes and creator workflow.
-- **Automation Scripts** — scripts that remove repetitive setup and speed up development.
-
 ## GitHub Stats
 ![Gregory's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimplyGregory&theme=github_dark)
 
@@ -55,4 +49,5 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 - Portfolio: https://gregorybridges.dev
 - YouTube: https://www.youtube.com/@ModSpidr
 - Email: contact@gregorybridges.dev
+
 

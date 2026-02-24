@@ -29,7 +29,7 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 <p>
 	<img src="https://skillicons.dev/icons?i=unity,nodejs,git,aws,vscode" alt="Technology icons" />
 	<img src="./images/RobloxStudios.png" alt="Roblox Studio" />
-	<img src="https://img.shields.io/badge/Flipper%20Zero-F7931E?style=for-the-badge" alt="Flipper Zero" />
+	<img src="./images/FlipperZero.png" alt="Flipper Zero" />
 </p>
 
 ## Reverse Engineering Tools
@@ -49,6 +49,7 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 - Portfolio: https://gregorybridges.dev
 - YouTube: https://www.youtube.com/@ModSpidr
 - Email: contact@gregorybridges.dev
+
 
 
 

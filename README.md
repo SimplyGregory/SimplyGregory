@@ -28,7 +28,7 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 <hr />
 <p>
 	<img src="https://skillicons.dev/icons?i=unity,nodejs,git,aws,vscode" alt="Technology icons" />
-	<img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
+	<img src="./images/RobloxStudios.png" alt="Roblox Studio" />
 	<img src="https://img.shields.io/badge/Flipper%20Zero-F7931E?style=for-the-badge" alt="Flipper Zero" />
 </p>
 
@@ -49,5 +49,6 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 - Portfolio: https://gregorybridges.dev
 - YouTube: https://www.youtube.com/@ModSpidr
 - Email: contact@gregorybridges.dev
+
 
 

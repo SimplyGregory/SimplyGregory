@@ -36,7 +36,7 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 <hr />
 <p>
 	<img src="./images/DNSpy.png" alt="DNSpy" />
-	<img src="https://img.shields.io/badge/Ghidra-C0392B?style=for-the-badge" alt="Ghidra" />
+	<img src="./images/Ghidra.png" alt="Ghidra" />
 	<img src="https://img.shields.io/badge/Il2CPPDumper-6C5CE7?style=for-the-badge" alt="Il2CPPDumper" />
 </p>
 
@@ -49,6 +49,7 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 - Portfolio: https://gregorybridges.dev
 - YouTube: https://www.youtube.com/@ModSpidr
 - Email: contact@gregorybridges.dev
+
 
 
 

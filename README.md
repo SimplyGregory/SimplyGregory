@@ -35,7 +35,7 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 ## Reverse Engineering Tools
 <hr />
 <p>
-	<img src="https://img.shields.io/badge/dnSpy-2f3542?style=for-the-badge" alt="dnSpy" />
+	<img src="./images/DNSpy.png" alt="DNSpy" />
 	<img src="https://img.shields.io/badge/Ghidra-C0392B?style=for-the-badge" alt="Ghidra" />
 	<img src="https://img.shields.io/badge/Il2CPPDumper-6C5CE7?style=for-the-badge" alt="Il2CPPDumper" />
 </p>
@@ -49,6 +49,7 @@ I build tools, mods, and web experiences that are clean, fast, and practical.
 - Portfolio: https://gregorybridges.dev
 - YouTube: https://www.youtube.com/@ModSpidr
 - Email: contact@gregorybridges.dev
+
 
 
 
